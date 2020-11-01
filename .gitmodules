@@ -1,0 +1,9 @@
+[submodule "Kubernetes"]
+	path = Kubernetes
+	url = https://github.com/MahmoodAbuAwwad/Kubernetes.git
+[submodule "backend_kubernetes"]
+	path = backend_kubernetes
+	url = https://github.com/MahmoodAbuAwwad/backend_kubernetes.git
+[submodule "frontend_kubernetes"]
+	path = frontend_kubernetes
+	url = https://github.com/MahmoodAbuAwwad/frontend_kubernetes.git
